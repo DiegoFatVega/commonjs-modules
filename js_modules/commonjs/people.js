@@ -9,3 +9,5 @@ function people(){
 
     return peopleInfo;
 }
+
+console.log(people());

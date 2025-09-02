@@ -5,6 +5,7 @@
   "main": "people.js",
   "type": "module",
   "scripts": {
+    "start": "node people.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
